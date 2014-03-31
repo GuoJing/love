@@ -11,18 +11,28 @@ body {
 
 .topbanner {
     background: black;
-    padding: 1px;
+    padding: 5px;
 }
 
 ul {
     list-style: none;
-    margin-left: -20px;
-    font-size: 14px;
+    margin-left: -25px;
+    font-size: 16px;
+    display: block;
 }
 
-.topbanner a:hover .topbanner a:link, .topbanner a:visited, a:hover, a:link, a:visited {
+ul li{
+    float: left;
+    margin-right: 25px;
+}
+
+.clearfix:after, ul:after, li:after {
+    clear: both;
+}
+
+a {
     color: white;
-    text-decoration: none;
+    text-decoration: nont;
 }
 
 .banner {
@@ -36,27 +46,40 @@ ul {
     text-align: center;
     font-weight: bolder;
     text-rendering: optimizelegibility;
+    padding: 20px;
 }
 
 .banner .description {
     text-align: center;
     font-size: 20px;
     color: white;
+    padding-bottom: 20px;
+    font-style: italic;;
 }
 
 .container {
   max-width: 900px;
   overflow: hidden;
-  padding: 20px;
-  margin: 40px auto;
+  margin: 0px auto;
 }
 
 .footer {
   font-size: 14px;
   text-align: center;
   color: #ca5529;
+  margin: 30px 0 30px 0;
 }
 
 .author a:hover {
   color: #ca5529;
+}
+
+.nav-pills li a:link, .nav-pills li a:visited {
+    color: #fcfcfc;
+    text-decoration: none;
+}
+
+.nav-pills li a:hover {
+  color: white;
+  text-decoration: none;
 }
