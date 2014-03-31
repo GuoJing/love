@@ -23,7 +23,7 @@
                 "startDate":"2012,3,10",
                 "endDate":"2012,3,10",
                 "headline":"在一起",
-                "text":"<p>在一起。</p><p><a href='http://guojing.me/blog/2012/03/18/journey/'>《爱》</a></p>",
+                "text":"<p>但硬要说爱的原因的话，我想说，可能我是在某个星球的夜空里孤独的广播了一句简短的“我爱你”。在无数时光之后，远方传来了同样频率的回应，那也是一句简短的“我爱你”。</p><p><a href='http://guojing.me/blog/2012/05/09/love/'>《爱》</a></p>",
                 "asset":
                 {
                     "media":"",
@@ -35,7 +35,7 @@
                 "startDate":"2012,5,5",
                 "endDate":"2012,5,5",
                 "headline":"第一次送你花",
-                "text":"<p><a href='http://www.douban.com/note/213041743/'>《立夏》</a></p>",
+                "text":"<p>这是第一次有男生送花给我哎！后来，我意识到这个事实。你还真是赚了不少。</p><p><a href='http://www.douban.com/note/213041743/'>《立夏》</a></p>",
                 "asset":
                 {
                     "media":"",
@@ -47,10 +47,10 @@
                 "startDate":"2012,5,30",
                 "endDate":"2012,5,30",
                 "headline":"音乐节",
-                "text":"<p>草莓音乐节。</p>",
+                "text":"<p>和梁小姐、春哥、阿糕一起参加草莓音乐节。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"http://zh.wikipedia.org/wiki/%E8%8D%89%E8%8E%93%E9%9F%B3%E6%A8%82%E7%AF%80",
                     "credit":"",
                     "caption":""
                 }
@@ -62,7 +62,7 @@
                 "text":"<p>在青岛旅游。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"http://zh.wikipedia.org/wiki/%E9%9D%92%E5%B3%B6%E5%95%A4%E9%85%92",
                     "credit":"",
                     "caption":""
                 }
@@ -74,7 +74,7 @@
                 "text":"<p>在云南旅游。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"http://zh.wikipedia.org/wiki/%E4%BA%91%E5%8D%97",
                     "credit":"",
                     "caption":""
                 }
@@ -98,7 +98,7 @@
                 "text":"<p>和梁小姐回武汉。</p>",
                 "asset":
                 {
-                    "media":"",
+                    "media":"http://zh.wikipedia.org/wiki/%E6%AD%A6%E6%B1%89",
                     "credit":"",
                     "caption":""
                 }
