@@ -16,11 +16,10 @@ body {
     position      : fixed;
     top           : 1em;
     right         : 1em;
-
     padding       : 5px;
-
     background    : black;
     border-radius : 8px;
+    z-index       : 9999;
 }
 
 ul {
@@ -47,7 +46,7 @@ a {
 }
 
 .timeline-con {
-    height : 450px;
+    height : 600px;
     width  : 100%;
 }
 
