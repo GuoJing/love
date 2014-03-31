@@ -1,0 +1,5 @@
+indexes:
+    tag: "tags"
+    category: "categories"
+baseurl: "http://spf13.com/"
+title: "Steve Francia is spf13.com"

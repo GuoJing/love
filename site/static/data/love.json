@@ -1,0 +1,36 @@
+
+{
+    "timeline":
+    {
+        "headline":"Love Story",
+        "type":"default",
+        "text":"bettylwx&&GuoJing <blockquote>“For memories we together.”</blockquote>",
+        "startDate":"2012,1,26",
+        "date": [
+            {
+                "startDate":"2012,2,26",
+                "endDate":"2012,2,26",
+                "headline":"相识",
+                "text":"<p>我们认识的那一天。</p>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,3,10",
+                "endDate":"2012,3,10",
+                "headline":"在一起",
+                "text":"在一起。",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
