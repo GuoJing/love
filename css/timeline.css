@@ -204,7 +204,7 @@
 .vco-storyjs img,.vco-storyjs embed,.vco-storyjs object,.vco-storyjs video,.vco-storyjs iframe{max-width:100%}
 .vco-storyjs img{max-height:100%;border:1px solid #999}
 .vco-storyjs a{color:#ca5529;text-decoration:none}
-.vco-storyjs a:hover{color:#005580;text-decoration:underline}
+.vco-storyjs a:hover{color:black;}
 .vco-storyjs .vcard{float:right;margin-bottom:15px}.vco-storyjs .vcard a{color:#333}
 .vco-storyjs .vcard a:hover{text-decoration:none}.vco-storyjs .vcard a:hover .fn{text-decoration:underline}
 .vco-storyjs .vcard .fn,.vco-storyjs .vcard .nickname{padding-left:42px}
