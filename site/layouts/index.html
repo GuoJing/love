@@ -7,21 +7,24 @@
     </head>
 
     <body>
-        <div id="timeline-embed"></div>
-        <script type="text/javascript">
-            var timeline_config = {
-         width: "100%",
-         height: "100%",
-         source: 'data/love.json',
-         lang:   'zh-cn',
-        }
-        </script>
-        <script type="text/javascript" src="http://guojing.me/love/js/story.js"></script>
+        <div class="banner">
+            <div class="title">Timeline</div>
+            <div class="description">Everything we beening together.</div>
+        </div>
+        <div class="timeline">
+            <div id="timeline-embed"></div>
+            <script type="text/javascript">
+                var timeline_config = {
+             width: "100%",
+             height: "65%",
+             source: 'data/love.json',
+             lang:   'zh-cn',
+            }
+            </script>
+            <script type="text/javascript" src="http://guojing.me/love/js/story.js"></script>
+        </div>
         <div class="container">
             <div class="posts">
-            </div>
-            <div class="info">
-                This is a timeline of bettylwx and me.<br>
             </div>
             <div class="footer">
                 © Copyright 2014 by GuoJing using hugo.
