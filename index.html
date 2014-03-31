@@ -1,6 +1,8 @@
 <html>
     <head>
         <title>Love Story</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
         <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="screen">
         <script type="text/javascript" src="http://guojing.me/love/js/jquery-1.7.1.min.js"></script>
@@ -18,12 +20,12 @@
             <div class="title">Timeline</div>
             <div class="description">Everything we beening together.<br>This is a simple website record our everyday life.</div>
         </div>
-        <div class="timeline">
+        <div class="timeline-con">
             <div id="timeline-embed"></div>
             <script type="text/javascript">
             var timeline_config = {
              width: "100%",
-             height: "70%",
+             height: "100%",
              source: 'data/love.json',
              lang:   'zh-cn',
              start_at_end: true,
@@ -31,6 +33,8 @@
             </script>
             <script type="text/javascript" src="http://guojing.me/love/js/story.js"></script>
         </div>
+
+
         <div class="container">
             <div class="posts">
             </div>
