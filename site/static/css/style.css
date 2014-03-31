@@ -12,6 +12,10 @@ body {
 .topbanner {
     background: black;
     padding: 5px;
+    position: fixed;
+    top: 1em;
+    right: 1em;
+    border-radius: 8px;
 }
 
 ul {
