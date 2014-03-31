@@ -1,0 +1,17 @@
+.container {
+  max-width: 900px;
+  background: #FFF;
+  overflow: hidden;
+  padding: 20px;
+  margin: 40px auto;
+}
+
+.footer {
+  margin: 20px 0 0 0;
+  font-size: 12px;
+  text-align: center;
+}
+
+.author a:hover {
+  color: #fcfcfc;
+}
