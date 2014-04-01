@@ -24,9 +24,7 @@ body {
 
 ul {
     display     : block;
-
     margin-left : -25px;
-
     font-size   : 16px;
     list-style  : none;
 }
@@ -46,7 +44,7 @@ a {
 }
 
 .timeline-con {
-    height : 600px;
+    height : 500px;
     width  : 100%;
 }
 
